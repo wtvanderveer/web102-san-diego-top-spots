@@ -1,0 +1,9 @@
+Wireframe - web102-san-diego-top-spots
+
+Tab will have an image of a palm tree if possible.
+Title: San Diego Top Spots
+centered h1: San Diego Top Spots
+image: large image of san diego or san diego attraction
+table: column 1: name | column 2: Description | column 3: Link to google maps
+Following rows will have info filled out by JSON file.
+The locations column will have a nice looking button directing the user to the location using a google maps link.

@@ -1,0 +1,48 @@
+body {
+    background-color: #635bff;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+h1 {
+    color:#f6f9fc;
+    
+}
+th, td {
+    padding: 12px;
+}
+table {
+    background-color: #f6f9fcd4;
+    border-radius: 12px;
+    max-width: 90%;
+    border-collapse: collapse;
+    overflow: hidden;
+    margin: 0 auto;
+    
+}
+thead {
+    font-weight: bold;
+}
+tr:nth-child(odd) {
+  background-color:   #f4f1f1ac 
+}
+tr:nth-child(even) {
+  background-color: #f6f9fcd4
+  
+}
+.map-btn {
+    display: inline-block;
+    background-color: #635bff;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    min-width: 160px;
+}
+.map-btn:hover {
+    background-color: #4b45cc;
+}
+.map-btn img {
+    margin-left: 14px;
+}
